@@ -1,0 +1,3 @@
+requests
+phonenumbers
+urllib3<3
